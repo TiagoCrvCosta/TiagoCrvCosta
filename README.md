@@ -22,7 +22,7 @@ but I'm also eager to explore high-level development and create my own programs 
 
 # 
 ### **Stats**
-<img src="https://github-stats-extended.vercel.app/api?username=TiagoCrvCosta" alt="Estatísticas Estendidas" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCrvCosta" alt="Linguagens Mais Usadas" />
 
 #
 
