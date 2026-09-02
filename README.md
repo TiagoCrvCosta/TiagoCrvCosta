@@ -30,7 +30,7 @@ but I'm also eager to explore high-level development and create my own programs 
 
 ### **🎸 Hobbies & Interests**
 **<pre> 🎧 Music </pre>**
-**<pre> 🎮 Gaming (destiny 2) </pre>**
+**<pre> 🎮 Gaming </pre>**
 **<pre> 💻 Fun coding </pre>**
 **<pre> 📚 Learning </pre>**
 
