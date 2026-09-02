@@ -22,9 +22,9 @@ but I'm also eager to explore high-level development and create my own programs 
 
 # 
 ### **Stats**
-![Lord1000C's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lord1000C&show_icons=true&theme=dark)   
+![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoCrvCosta&show_icons=true&theme=dark) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lord1000C&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoCrvCosta&layout=compact&theme=dark)
 
 #
 
