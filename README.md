@@ -1,4 +1,4 @@
-# 🎵 Lord1000C 🎵
+# 🎵 Tiago Costa 🎵
 
 **`Student at IST-ULisboa`** | **`Musician`**
 
